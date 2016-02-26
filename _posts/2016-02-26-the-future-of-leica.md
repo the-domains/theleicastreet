@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T20:17:01.962Z'
-dateModified: '2016-02-26T19:35:12.614Z'
+datePublished: '2016-02-26T22:30:24.954Z'
+dateModified: '2016-02-26T20:17:05.388Z'
 title: The Future of Leica?
 author: []
 sourcePath: _posts/2016-02-26-the-future-of-leica.md
