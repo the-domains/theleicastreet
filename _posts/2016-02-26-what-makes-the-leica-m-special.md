@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T16:30:36.237Z'
-dateModified: '2016-02-26T16:30:21.836Z'
+datePublished: '2016-02-26T16:33:30.295Z'
+dateModified: '2016-02-26T16:33:05.838Z'
 title: What Makes the Leica M Special?
 author: []
+sourcePath: _posts/2016-02-26-what-makes-the-leica-m-special.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-what-makes-the-leica-m-special.md
-published: true
 url: what-makes-the-leica-m-special/index.html
 _type: Article
 
@@ -25,9 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5d8d8d3-55bc-46a2-9d6b-33b43ec75d32.jpg)
 
 My introduction to Leica was through internet reviews around the release of the M9\. After reading people wax poetically about the quality and shooting experience I knew a Leica was in my future. Being able to shoot an M6 since 2012 I feel more equipped to state why Leica make special cameras. 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c58fab1e-26c5-4fc3-9f9f-a07a8af643e8.jpg)
 
-Simplicity is often stated as a main reason for shooting a Leica and I wholeheartedly agree. Dials are easily displayed and changed rapidly. This making shooting more comfortable for me. A few weeks ago I used my dads Nikon d800 and had no idea what I was doing. This is not the cameras flaw but rather mine and with what I have been accustomed to. You can set dials to your liking and have many settings, with Leica film cameras and to some extent their digital cameras these options are not available and your forced (positive for some, negative for others) into learning how to quickly manage them. I find all I want is shutter, aperture and ISO settings. 
+Simplicity is often stated as a main reason for shooting a Leica and I wholeheartedly agree. Dials are easily displayed and changed rapidly. This making shooting more comfortable for me. A few weeks ago I used my dads Nikon d800 and had no idea what I was doing. This is not the cameras flaw but rather mine and with what I have been accustomed to. You can set dials to your liking and have many settings, with Leica film cameras and to some extent their digital cameras these options are not available and your forced (positive for some, negative for others) into learning how to quickly manage them. I find all I want is shutter, aperture and ISO settings. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c58fab1e-26c5-4fc3-9f9f-a07a8af643e8.jpg)
 
 Viewfinders of Leica's are fantastic and are big and beautiful with space outside the frame to see what is coming in and out of your shot. Once using a rangefinder in general I would imagine that it is hard to go back to a DSLR. It is not that those are bad viewfinders, but it doesn't compare to a rangefinder. The negative of the viewfinder is that it's an approximation of your frame. I have not had too much trouble with this and can't think of a missed shot because of it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79eb995c-d393-42a4-8637-125c1b594db4.jpg)
 
