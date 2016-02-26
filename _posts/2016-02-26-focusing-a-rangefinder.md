@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T23:46:50.965Z'
-dateModified: '2016-02-26T23:34:48.152Z'
+datePublished: '2016-02-26T23:52:34.347Z'
+dateModified: '2016-02-26T23:52:07.493Z'
 title: Focusing a Rangefinder
 author: []
 sourcePath: _posts/2016-02-26-focusing-a-rangefinder.md
