@@ -1,7 +1,7 @@
 name: theleicastreet
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.9027927
+typography_spectrum: 0.06849
 collections:
   - index:
       path: /
