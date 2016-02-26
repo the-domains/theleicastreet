@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[theleicastreet]]></title>
+        <description><![CDATA[theleicastreet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 16:30:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Makes the Leica M Special?]]></title>
+            <description><![CDATA[<article><h1>What Makes the Leica M Special?</h1><p>My introduction to Leica was through internet reviews around the release of the M9. After reading people wax poetically about the quality and shooting experience I knew a Leica was in my future. Being able to shoot an M6 since 2012 I feel more equipped to state why Leica make special cameras. 
+
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff09023e52146043cf1355243f2e6557388693f7.jpg"></article>]]></description>
+            <link>undefinedwhat-makes-the-leica-m-special/index.html</link>
+            <guid isPermaLink="false">e771d9b0-922b-4a5b-be21-718d33b19bd7</guid>
+            <pubDate>Fri, 26 Feb 2016 16:30:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
