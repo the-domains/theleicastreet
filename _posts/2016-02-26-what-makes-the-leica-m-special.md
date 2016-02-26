@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T16:33:30.295Z'
-dateModified: '2016-02-26T16:33:05.838Z'
+datePublished: '2016-02-26T16:35:07.060Z'
+dateModified: '2016-02-26T16:34:48.990Z'
 title: What Makes the Leica M Special?
 author: []
 sourcePath: _posts/2016-02-26-what-makes-the-leica-m-special.md
