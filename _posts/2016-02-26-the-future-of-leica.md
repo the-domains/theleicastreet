@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T22:32:25.724Z'
-dateModified: '2016-02-26T22:30:31.992Z'
+datePublished: '2016-02-26T22:34:52.941Z'
+dateModified: '2016-02-26T22:34:46.532Z'
 title: The Future of Leica?
 author: []
 sourcePath: _posts/2016-02-26-the-future-of-leica.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-future-of-leica/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638867fb-10d0-49c7-b063-feb9ba99f011.jpg)
