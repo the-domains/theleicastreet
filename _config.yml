@@ -1,8 +1,7 @@
-layout_spectrum: 0.2862513
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: theleicastreet
+favicon: null
+layout_spectrum: 0.49627
+typography_spectrum: 0.9027927
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6978550425264984
-  brandStrength: 0.3301660034339875
-  rhythmicContrast: 0.9923725400585681
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  brandStrength: 0.3301660034339875
   lightness: 0.9407685524784029
-typography_spectrum: 0.9027927
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: theleicastreet
+  saturation: 0.6978550425264984
+  rhythmicContrast: 0.9923725400585681
+purpose: []
