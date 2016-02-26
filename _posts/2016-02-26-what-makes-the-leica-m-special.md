@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T16:59:36.580Z'
-dateModified: '2016-02-26T16:55:06.259Z'
+datePublished: '2016-02-26T17:04:34.747Z'
+dateModified: '2016-02-26T17:04:15.581Z'
 title: What Makes the Leica M Special?
 author: []
 sourcePath: _posts/2016-02-26-what-makes-the-leica-m-special.md
@@ -22,8 +22,9 @@ url: what-makes-the-leica-m-special/index.html
 _type: Article
 
 ---
-My introduction to Leica was through internet reviews around the release of the M9\. After reading people wax poetically about the quality and shooting experience I knew a Leica was in my future. Being able to shoot an M6 since 2012 I feel more equipped to state why Leica make special cameras. 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c58fab1e-26c5-4fc3-9f9f-a07a8af643e8.jpg)
+
+My introduction to Leica was through internet reviews around the release of the M9\. After reading people wax poetically about the quality and shooting experience I knew a Leica was in my future. Being able to shoot an M6 since 2012 I feel more equipped to state why Leica make special cameras. 
 
 Simplicity is often stated as a main reason for shooting a Leica and I wholeheartedly agree. Dials are easily displayed and changed rapidly. This making shooting more comfortable for me. A few weeks ago I used my dads Nikon d800 and had no idea what I was doing. This is not the cameras flaw but rather mine and with what I have been accustomed to. You can set dials to your liking and have many settings, with Leica film cameras and to some extent their digital cameras these options are not available and your forced (positive for some, negative for others) into learning how to quickly manage them. I find all I want is shutter, aperture and ISO settings. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28504e61-5e67-4cbb-80e9-58000484538b.jpg)
 
