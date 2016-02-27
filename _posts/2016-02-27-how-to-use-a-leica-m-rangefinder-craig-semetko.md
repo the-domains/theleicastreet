@@ -17,8 +17,8 @@ keywords:
   - portrait
   - monochrom
 description: 'To learn more: www.leica-store.sg'
-datePublished: '2016-02-27T00:27:50.355Z'
-dateModified: '2016-02-27T00:21:21.760Z'
+datePublished: '2016-02-27T00:42:57.616Z'
+dateModified: '2016-02-27T00:27:58.781Z'
 author:
   - name: Leica Store Singapore
     url: 'https://www.youtube.com/user/LeicaStoreSingapore'
