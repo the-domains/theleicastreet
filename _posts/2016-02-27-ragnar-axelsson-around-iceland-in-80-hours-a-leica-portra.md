@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We have sent Ragnar Axelsson on a 80 hours trip around Iceland with a Leica Monochrom (Typ 246) as he came back we made this short feature to collect his views.
-datePublished: '2016-02-27T06:17:30.016Z'
-dateModified: '2016-02-27T06:17:26.981Z'
+datePublished: '2016-02-27T06:18:43.964Z'
+dateModified: '2016-02-27T06:17:37.543Z'
 author:
   - name: Leica Camera
     url: 'http://vimeo.com/leicacamera'
