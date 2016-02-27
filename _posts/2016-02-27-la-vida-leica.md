@@ -1,10 +1,11 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://lavidaleica.com/'
-inLanguage: en
-starred: false
+author: []
+related: []
+publisher:
+  url: 'http://lavidaleica.com'
+  name: La Vida Leica
+  favicon: 'http://lavidaleica.com/sites/default/files/favicon.ico'
+  domain: lavidaleica.com
 keywords:
   - leica
   - usd
@@ -17,22 +18,19 @@ keywords:
   - february
   - negative
 description: A site dedicated to photographers passionate in their choice of the Leica system for crafting their art.
-datePublished: '2016-02-27T06:21:42.909Z'
-dateModified: '2016-02-27T06:20:45.879Z'
-author: []
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'http://lavidaleica.com/'
 title: 'La Vida Leica!'
+datePublished: '2016-02-27T06:25:58.059Z'
+dateModified: '2016-02-27T06:25:01.014Z'
 sourcePath: _posts/2016-02-27-la-vida-leica.md
 published: true
-authors: []
-publisher:
-  name: La Vida Leica
-  domain: lavidaleica.com
-  url: 'http://lavidaleica.com'
-  favicon: 'http://lavidaleica.com/sites/default/files/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>La Vida Leica!</h1><p>A site dedicated to photographers passionate in their choice of the Leica system for crafting their art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d370cbc6e51985bc1abb73778d6f870c501cd52.jpg" /></article>
+<article style=""><h1>La Vida Leica&amp;excl;</h1><p>A site dedicated to photographers passionate in their choice of the Leica system for crafting their art&amp;period;</p><img src="http://lavidaleica.com/sites/default/files/lvl_badge.jpg" /></article>
