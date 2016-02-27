@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.l-camera-forum.com/?langid=2'
+inLanguage: en
+starred: false
+keywords:
+  - leica
+  - forum
+  - vario
+  - bilder
+  - wettbewerbe
+  - bereich
+  - lux
+  - digi
+  - geht
+  - sammler
+description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
+datePublished: '2016-02-27T06:32:29.322Z'
+dateModified: '2016-02-27T06:29:45.217Z'
 author:
   - name: Maximus
     url: 'http://www.l-camera-forum.com/user/6022-maximus/'
@@ -13,24 +33,6 @@ author:
     url: 'http://www.l-camera-forum.com/user/5309-jfgilbert/'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.l-camera-forum.com'
-  name: Leica Forum
-  favicon: 'http://www.l-camera-forum.com/favicon.ico'
-  domain: www.l-camera-forum.com
-keywords:
-  - leica
-  - forum
-  - vario
-  - bilder
-  - wettbewerbe
-  - bereich
-  - lux
-  - digi
-  - geht
-  - sammler
-description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
-inLanguage: en
 app_links:
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=facebook-indexing'
     type: android
@@ -62,17 +64,17 @@ app_links:
     package: '307880732'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://www.l-camera-forum.com/?langid=2'
 title: Leica Forum
-datePublished: '2016-02-27T06:25:58.037Z'
-dateModified: '2016-02-27T06:25:16.119Z'
 sourcePath: _posts/2016-02-27-leica-forum.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Leica Forum
+  domain: www.l-camera-forum.com
+  url: 'http://www.l-camera-forum.com'
+  favicon: 'http://www.l-camera-forum.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Leica Forum</h1><p>The Leica Forum is the biggest discussion board about Leica products&amp;comma; Leica images and Leica photographers&amp;period;</p><img src="http://cdn.l-camera-forum.com/public/style_images/master/meta_image.png" /></article>
+<article style=""><h1>Leica Forum</h1><p>The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/694a6960bd49a1257b2f0737f4a0773ae257c8fd.png" /></article>
