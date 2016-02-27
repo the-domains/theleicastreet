@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Leica Store Singapore
-    url: 'https://www.youtube.com/user/LeicaStoreSingapore'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=neN2QxYWj_w'
+inLanguage: en
+starred: false
 keywords:
   - leica
   - duration
@@ -21,7 +17,13 @@ keywords:
   - portrait
   - monochrom
 description: 'To learn more: www.leica-store.sg'
-inLanguage: en
+datePublished: '2016-02-27T00:21:13.427Z'
+dateModified: '2016-02-27T00:21:06.125Z'
+author:
+  - name: Leica Store Singapore
+    url: 'https://www.youtube.com/user/LeicaStoreSingapore'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=neN2QxYWj_w&feature=applinks'
     type: ios
@@ -59,17 +61,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=neN2QxYWj_w'
 title: 'How to use a Leica M Rangefinder: Craig Semetko'
-datePublished: '2016-02-27T00:19:35.774Z'
-dateModified: '2016-02-27T00:13:10.354Z'
 sourcePath: _posts/2016-02-27-how-to-use-a-leica-m-rangefinder-craig-semetko.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Great video demonstrating how to shoot with a rangefinder. If you have not heard of Craig Semetko check out his work: 
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FneN2QxYWj_w%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DneN2QxYWj_w&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FneN2QxYWj_w%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
