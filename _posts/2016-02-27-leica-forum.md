@@ -17,8 +17,8 @@ keywords:
   - geht
   - sammler
 description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
-datePublished: '2016-02-27T06:01:32.853Z'
-dateModified: '2016-02-27T06:00:37.102Z'
+datePublished: '2016-02-27T06:04:57.887Z'
+dateModified: '2016-02-27T06:03:19.403Z'
 author:
   - name: Maximus
     url: 'http://www.l-camera-forum.com/user/6022-maximus/'
@@ -77,4 +77,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Not only the biggest Leica forum, but filled with insight talk. For me if your going to use one forum about Leica this is it. 
+
 <article style=""><h1>Leica Forum</h1><p>The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/694a6960bd49a1257b2f0737f4a0773ae257c8fd.png" /></article>
