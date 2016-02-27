@@ -1,24 +1,4 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.l-camera-forum.com/?langid=2'
-inLanguage: en
-starred: false
-keywords:
-  - leica
-  - forum
-  - vario
-  - bilder
-  - wettbewerbe
-  - bereich
-  - lux
-  - digi
-  - geht
-  - sammler
-description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
-datePublished: '2016-02-27T06:04:57.887Z'
-dateModified: '2016-02-27T06:03:19.403Z'
 author:
   - name: Maximus
     url: 'http://www.l-camera-forum.com/user/6022-maximus/'
@@ -33,50 +13,66 @@ author:
     url: 'http://www.l-camera-forum.com/user/5309-jfgilbert/'
     avatar: {}
 related: []
+publisher:
+  url: 'http://www.l-camera-forum.com'
+  name: Leica Forum
+  favicon: 'http://www.l-camera-forum.com/favicon.ico'
+  domain: www.l-camera-forum.com
+keywords:
+  - leica
+  - forum
+  - vario
+  - bilder
+  - wettbewerbe
+  - bereich
+  - lux
+  - digi
+  - geht
+  - sammler
+description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
+inLanguage: en
 app_links:
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=facebook-indexing'
-    namespace: ai
     type: android
+    namespace: ai
     app_name: Tapatalk
     package: com.quoord.tapatalkpro.activity
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=facebook-indexing'
-    namespace: ai
     type: ios
+    namespace: ai
     app_store_id: '307880732'
     app_name: Tapatalk
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=twitter-indexing'
+    namespace: twitter
     type: ipad
-    namespace: twitter
     id: '307880732'
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=twitter-indexing'
+    namespace: twitter
     type: iphone
-    namespace: twitter
     id: '307880732'
   - url: 'tapatalk://www.l-camera-forum.com/?user_id=0&location=index&channel=twitter-indexing'
-    type: googleplay
     namespace: twitter
+    type: googleplay
     id: com.quoord.tapatalkpro.activity
   - path: 'tapatalk/www.l-camera-forum.com/?user_id=0&location=index&channel=google-indexing'
-    type: android
-    namespace: google
     package: com.quoord.tapatalkpro.activity
-  - path: 'tapatalk/www.l-camera-forum.com/?user_id=0&location=index&channel=google-indexing'
-    type: ios
     namespace: google
+    type: android
+  - path: 'tapatalk/www.l-camera-forum.com/?user_id=0&location=index&channel=google-indexing'
     package: '307880732'
+    namespace: google
+    type: ios
+isBasedOnUrl: 'http://www.l-camera-forum.com/'
 title: Leica Forum
+datePublished: '2016-02-27T06:19:55.389Z'
+dateModified: '2016-02-27T06:19:33.284Z'
 sourcePath: _posts/2016-02-27-leica-forum.md
 published: true
-authors: []
-publisher:
-  name: Leica Forum
-  domain: www.l-camera-forum.com
-  url: 'http://www.l-camera-forum.com'
-  favicon: 'http://www.l-camera-forum.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Not only the biggest Leica forum, but filled with insight talk. For me if your going to use one forum about Leica this is it. 
-
-<article style=""><h1>Leica Forum</h1><p>The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/694a6960bd49a1257b2f0737f4a0773ae257c8fd.png" /></article>
+<article style=""><h1>Leica Forum</h1><p>The Leica Forum is the biggest discussion board about Leica products&amp;comma; Leica images and Leica photographers&amp;period;</p><img src="http://cdn.l-camera-forum.com/public/style_images/master/meta_image.png" /></article>
