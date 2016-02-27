@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T00:43:12.290Z'
-dateModified: '2016-02-26T23:49:12.611Z'
+datePublished: '2016-02-27T01:15:50.756Z'
+dateModified: '2016-02-27T01:15:50.581Z'
 title: The Future of Leica?
 author: []
 sourcePath: _posts/2016-02-26-the-future-of-leica.md
@@ -22,7 +22,7 @@ url: the-future-of-leica/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638867fb-10d0-49c7-b063-feb9ba99f011.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbcb6bff1160ec16b8791e95b407f4856beb1600.jpg)
 
 With Leica introducing several new cameras including the M240, M260, M262, Q and SL the direction Leica is heading. Introducing live view has left many wondering if the are moving away from the rangefinder system and traditionalists would argue that Leica is venturing away from what has made them great.
 
