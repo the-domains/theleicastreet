@@ -17,8 +17,8 @@ keywords:
   - geht
   - sammler
 description: 'The Leica Forum is the biggest discussion board about Leica products, Leica images and Leica photographers.'
-datePublished: '2016-02-27T06:00:36.145Z'
-dateModified: '2016-02-27T05:59:58.688Z'
+datePublished: '2016-02-27T06:01:32.853Z'
+dateModified: '2016-02-27T06:00:37.102Z'
 author:
   - name: Maximus
     url: 'http://www.l-camera-forum.com/user/6022-maximus/'
