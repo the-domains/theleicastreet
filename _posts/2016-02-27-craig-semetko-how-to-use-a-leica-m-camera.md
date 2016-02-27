@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/113387993'
+inLanguage: null
+starred: false
+keywords: []
+description: 'What makes the Leica M different from SLRs? Follow along with photographer Craig Semetko as he answers this question and explains how to use the Leica M, including techniques on focusing. For Craig, the benefits of the Leica M include its small, discreet nature and big, bright viewfinder that allows you to see more.'
+datePublished: '2016-02-27T01:52:06.155Z'
+dateModified: '2016-02-27T01:52:05.684Z'
 author:
   - name: Leica Camera
     url: 'http://vimeo.com/leicacamera'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'What makes the Leica M different from SLRs? Follow along with photographer Craig Semetko as he answers this question and explains how to use the Leica M, including techniques on focusing. For Craig, the benefits of the Leica M include its small, discreet nature and big, bright viewfinder that allows you to see more.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/113387993'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/113387993'
 title: 'Craig Semetko: How to use a Leica M Camera'
-datePublished: '2016-02-27T01:36:07.434Z'
-dateModified: '2016-02-27T01:35:49.649Z'
 sourcePath: _posts/2016-02-27-craig-semetko-how-to-use-a-leica-m-camera.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
