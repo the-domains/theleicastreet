@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T01:15:50.756Z'
-dateModified: '2016-02-27T01:15:50.581Z'
+datePublished: '2016-03-03T15:59:14.987Z'
+dateModified: '2016-03-03T15:58:35.570Z'
 title: The Future of Leica?
 author: []
 sourcePath: _posts/2016-02-26-the-future-of-leica.md
@@ -30,4 +30,4 @@ The M system is what I believe is Leica's bread and butter. These cameras are bu
 
 With the advancement of technology many in the forum world have questioned the value of Leica cameras. I for one agree that they are very expensive comparable to Fuji, Nikon, Canon and Sony products. Each of these cameras also have the ability to take amazing pictures. 
 
-So the question remains where is Leica going?
+So the question remains where is Leica going? I for one, hope it says true to the M line and they keep the tradition of rangefinder cameras.
