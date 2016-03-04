@@ -1,14 +1,10 @@
 ---
-author:
-  - name: jim
-    url: 'http://www.jimarnold.org/blog/author/jim/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.jimarnold.org'
-  name: jim arnold
-  favicon: null
-  domain: www.jimarnold.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.jimarnold.org/blog/2015/12/leica-m-typ-262/'
+inLanguage: en
+starred: false
 keywords:
   - m262
   - leica
@@ -21,17 +17,23 @@ keywords:
   - image
   - iso
 description: 'On November 19 Leica introduced the M Typ 262, the successor to the Leica M-E, which was really an M9 minus the frame line preview lever and USB port. The M262, however, is based on the M240 but shares the body shape and weight of the M9 series.'
-inLanguage: en
+datePublished: '2016-03-04T22:06:02.853Z'
+dateModified: '2016-03-04T22:05:52.825Z'
+author:
+  - name: jim
+    url: 'http://www.jimarnold.org/blog/author/jim/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.jimarnold.org/blog/2015/12/leica-m-typ-262/'
 title: Leica M262 Review (Leica M Typ 262) with sample images
-datePublished: '2016-03-04T22:05:33.858Z'
-dateModified: '2016-03-04T22:04:54.736Z'
 sourcePath: _posts/2016-03-04-leica-m262-review-leica-m-typ-262-with-sample-images.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: jim arnold
+  domain: www.jimarnold.org
+  url: 'http://www.jimarnold.org'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
