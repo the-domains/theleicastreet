@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Craig Semetko using a Leica
-datePublished: '2016-03-05T21:59:15.644Z'
-dateModified: '2016-03-05T21:48:47.813Z'
+datePublished: '2016-03-05T22:03:15.658Z'
+dateModified: '2016-03-05T22:03:11.683Z'
 title: Using a Rangefinder
 author: []
 sourcePath: _posts/2016-03-05-using-a-rangefinder.md
@@ -22,7 +22,7 @@ url: using-a-rangefinder/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d148b03-a924-419e-b77f-e15ca441da15.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afdacdeed2df6d66ac6abe68ffd652df214552fe.jpg)
 
 If you have not heard of Craig Semetko check out his work at [http://www.semetko.com/][0]
 
