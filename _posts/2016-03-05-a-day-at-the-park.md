@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Pictures from our morning at Gates Park Calabasas
-datePublished: '2016-03-05T23:26:26.783Z'
-dateModified: '2016-03-05T23:26:05.282Z'
+datePublished: '2016-03-05T23:27:49.460Z'
+dateModified: '2016-03-05T23:26:30.661Z'
 title: A Day at the Park
 author: []
+sourcePath: _posts/2016-03-05-a-day-at-the-park.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-a-day-at-the-park.md
-published: true
 url: a-day-at-the-park/index.html
 _type: Article
 
