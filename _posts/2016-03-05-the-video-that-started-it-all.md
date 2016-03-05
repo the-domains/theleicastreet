@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T22:19:59.279Z'
-dateModified: '2016-03-05T22:07:18.814Z'
+datePublished: '2016-03-05T22:20:59.373Z'
+dateModified: '2016-03-05T22:20:18.208Z'
 title: The Video That Started It All
 author: []
 sourcePath: _posts/2016-03-05-the-video-that-started-it-all.md
