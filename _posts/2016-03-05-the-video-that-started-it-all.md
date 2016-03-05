@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:56:58.067Z'
-dateModified: '2016-03-05T21:56:33.513Z'
+datePublished: '2016-03-05T21:59:57.201Z'
+dateModified: '2016-03-05T21:57:01.716Z'
 title: The Video That Started It All
 author: []
+sourcePath: _posts/2016-03-05-the-video-that-started-it-all.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-the-video-that-started-it-all.md
-published: true
 url: the-video-that-started-it-all/index.html
 _type: Article
 
