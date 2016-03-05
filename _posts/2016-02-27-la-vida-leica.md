@@ -17,8 +17,8 @@ keywords:
   - february
   - negative
 description: A site dedicated to photographers passionate in their choice of the Leica system for crafting their art.
-datePublished: '2016-03-05T18:28:34.088Z'
-dateModified: '2016-03-05T18:28:20.033Z'
+datePublished: '2016-03-05T18:51:29.316Z'
+dateModified: '2016-03-05T18:50:51.598Z'
 author: []
 related: []
 app_links: []
@@ -36,5 +36,3 @@ _type: MediaObject
 
 ---
 Best news and rumor site, for staying up to date with Leica, I go to LaVidaLeica.com and so should you.
-
-<article style=""><h1>La Vida Leica&amp;excl;</h1><p>A site dedicated to photographers passionate in their choice of the Leica system for crafting their art&amp;period;</p><img src="http://lavidaleica.com/sites/default/files/lvl_badge.jpg" /></article>
