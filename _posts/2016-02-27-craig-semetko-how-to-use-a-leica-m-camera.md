@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'What makes the Leica M different from SLRs? Follow along with photographer Craig Semetko as he answers this question and explains how to use the Leica M, including techniques on focusing. For Craig, the benefits of the Leica M include its small, discreet nature and big, bright viewfinder that allows you to see more.'
-datePublished: '2016-02-27T01:52:06.155Z'
-dateModified: '2016-02-27T01:52:05.684Z'
+datePublished: '2016-03-05T18:31:14.717Z'
+dateModified: '2016-03-05T18:30:25.517Z'
 author:
   - name: Leica Camera
     url: 'http://vimeo.com/leicacamera'
@@ -54,4 +54,12 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Wonder what it is like shooting with a rangefinder. Watch this video from a fantastic photographer and check out his website at ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b9ed2fd13a9bc256acd8b2a74218457/passthrough.jpg?height=422&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F296db0c45f6db9f0ac24466fcf90aa4a4b3969c7.jpg&width=750)
+
+# Craig Semetko: How to use a Leica M Camera
+
+Leica Camera
+
+What makes the Leica M different from SLRs? Follow along with photographer Craig Semetko as he answers this question and explains how to use the Leica M, including techniques on focusing. For Craig, the benefits of the Leica M include its small, discreet nature and big, bright viewfinder that allows you to see more.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F113387993&amp;url=https%3A%2F%2Fvimeo.com%2F113387993&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F498780303_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
