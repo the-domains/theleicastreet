@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'What makes the Leica M different from SLRs? Follow along with photographer Craig Semetko as he answers this question and explains how to use the Leica M, including techniques on focusing. For Craig, the benefits of the Leica M include its small, discreet nature and big, bright viewfinder that allows you to see more.'
-datePublished: '2016-03-05T18:31:14.717Z'
-dateModified: '2016-03-05T18:30:25.517Z'
+datePublished: '2016-03-05T18:35:53.431Z'
+dateModified: '2016-03-05T18:31:22.083Z'
 author:
   - name: Leica Camera
     url: 'http://vimeo.com/leicacamera'
