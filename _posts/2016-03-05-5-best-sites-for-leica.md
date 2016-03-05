@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: My take on the best Leica webistes
-datePublished: '2016-03-05T21:30:40.549Z'
-dateModified: '2016-03-05T21:30:18.133Z'
+datePublished: '2016-03-05T21:33:36.798Z'
+dateModified: '2016-03-05T21:30:49.031Z'
 title: 5 Best Sites For Leica
 author: []
+sourcePath: _posts/2016-03-05-5-best-sites-for-leica.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-5-best-sites-for-leica.md
-published: true
 url: 5-best-sites-for-leica/index.html
 _type: Article
 
