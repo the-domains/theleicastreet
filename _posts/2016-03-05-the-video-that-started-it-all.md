@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T22:01:19.976Z'
-dateModified: '2016-03-05T22:00:26.868Z'
+datePublished: '2016-03-05T22:07:13.379Z'
+dateModified: '2016-03-05T22:06:37.129Z'
 title: The Video That Started It All
 author: []
 sourcePath: _posts/2016-03-05-the-video-that-started-it-all.md
@@ -25,10 +25,6 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/469712201cc1b8bce041c870a78ab6b43a6acc09.jpg)
 
 Besides from [Steve Huffs M9 Review][0] maybe the most influential person in shaping my love for like is Kai Wong. His M9 video review fascinated me and from that moment on I knew that a Leica rangefinder was in my future. Besides from this review Kai is part of the wonderful [digital rev team][1]. You can follow him on twitter @kaimanwong
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/YMok4yGluhE" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-
 
 [0]: http://www.stevehuffphoto.com/2010/08/04/my-updated-big-bad-ass-leica-m9-review/
 [1]: http://www.digitalrev.com/
