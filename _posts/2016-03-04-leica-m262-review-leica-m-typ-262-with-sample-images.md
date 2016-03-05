@@ -17,8 +17,8 @@ keywords:
   - image
   - iso
 description: 'On November 19 Leica introduced the M Typ 262, the successor to the Leica M-E, which was really an M9 minus the frame line preview lever and USB port. The M262, however, is based on the M240 but shares the body shape and weight of the M9 series.'
-datePublished: '2016-03-05T18:48:45.581Z'
-dateModified: '2016-03-04T22:17:44.959Z'
+datePublished: '2016-03-05T18:53:08.759Z'
+dateModified: '2016-03-05T18:52:56.270Z'
 author:
   - name: jim
     url: 'http://www.jimarnold.org/blog/author/jim/'
@@ -38,4 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Recent review on Leica's latest camera, great insight for those interested.
+
 <article style=""><h1>Leica M262 Review (Leica M Typ 262) with sample images</h1><p>On November 19 Leica introduced the M Typ 262, the successor to the Leica M-E, which was really an M9 minus the frame line preview lever and USB port. The M262, however, is based on the M240 but shares the body shape and weight of the M9 series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e79ca5d0a4fa2a1b7868bd6d6b7e2ed9ccdc4cad.jpg" /></article>
