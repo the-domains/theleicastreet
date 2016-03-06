@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.6146616
+  saturation: 0.4003759
   brandStrength: 0.125
-  lightness: 0.933584
+  lightness: 0.8753133
   brandColors:
     - '#ffffff'
     - '#d73030'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: theleicastreet
 favicon: null
+name: theleicastreet
 opengraph:
   image: null
   type: null
