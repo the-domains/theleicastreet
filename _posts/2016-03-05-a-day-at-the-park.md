@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Pictures from our morning at Gates Park Calabasas
-datePublished: '2016-03-05T23:57:15.898Z'
-dateModified: '2016-03-05T23:51:27.074Z'
+datePublished: '2016-03-06T00:00:08.939Z'
+dateModified: '2016-03-05T23:57:36.522Z'
 title: A Day at the Park
 author: []
 sourcePath: _posts/2016-03-05-a-day-at-the-park.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e00f315995963208e902edb8bec21e0b94747aa.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab45f713-b5da-4fb7-bed0-5b943a250377.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e6a8c889adeabc4c3c72d0db93bf41d9d37800d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4728e508-ede4-40e2-99d8-3c11edcaec60.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68ad66d7-6ae1-4c04-bfe6-eac85712a0a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4dcec1-1cbd-407d-8c8a-3047ab99c5e0.jpg)
