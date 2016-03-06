@@ -17,8 +17,8 @@ keywords:
   - tweet
   - learn
 description: 'My 1st ever Leica photo, shot almost 5 years ago. #Leica #photography #losangeles #leicaM6'
-datePublished: '2016-03-05T23:31:03.659Z'
-dateModified: '2016-03-05T23:28:55.615Z'
+datePublished: '2016-03-06T00:29:32.543Z'
+dateModified: '2016-03-05T23:33:43.983Z'
 author:
   - name: theleicastreet
     url: 'http://twitter.com/theleicastreet'
