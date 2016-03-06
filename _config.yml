@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.4003759
-  brandStrength: 0.125
+  brandStrength: 0.75
   lightness: 0.8753133
   brandColors:
     - '#ffffff'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: theleicastreet
+favicon: null
 opengraph:
   image: null
   type: null
