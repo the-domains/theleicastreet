@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T05:56:39.340Z'
-dateModified: '2016-03-06T05:12:41.125Z'
+datePublished: '2016-03-06T06:25:49.853Z'
+dateModified: '2016-03-06T06:01:53.675Z'
 title: A Trip to Paris
 author: []
 sourcePath: _posts/2016-03-06-a-trip-to-paris.md
