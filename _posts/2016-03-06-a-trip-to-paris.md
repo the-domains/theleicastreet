@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T04:44:26.658Z'
-dateModified: '2016-03-06T04:44:13.244Z'
+datePublished: '2016-03-06T05:12:35.547Z'
+dateModified: '2016-03-06T04:50:11.298Z'
 title: A Trip to Paris
 author: []
 sourcePath: _posts/2016-03-06-a-trip-to-paris.md
@@ -22,9 +22,9 @@ url: a-trip-to-paris/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0434c82b-7563-4d9b-9d4d-1a8aec9d0c48.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9fd1b8-c802-4e8a-bc64-91d4455efde7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83dc4838-e253-4769-965d-d75b5a6518a2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16be506-a47e-4d30-a6c3-0403d14e8c4a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3dd16d664a7e9bf9e86d05e7978e5437eb2981.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0958f7c1266ebeeb647ba40c0a0af8613083dbbc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/667ffdfb31f0b532108f3c8179002232d70756c0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7ae820f9099e98fcc47433ab21e0a045cde35df.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9f8338f-40ee-4f3f-a475-d4c562aea1cb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42a978bd-6f1d-48fa-bd97-faf65daf5661.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ddf55ec422a32ae1a7c0b8525fed04a386bed0f.jpg)
