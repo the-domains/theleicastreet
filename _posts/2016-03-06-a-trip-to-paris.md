@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T04:05:15.270Z'
+datePublished: '2016-03-07T04:05:32.323Z'
 dateModified: '2016-03-07T04:04:56.069Z'
 title: A Trip to Paris
 author: []
