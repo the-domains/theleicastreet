@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T06:33:33.803Z'
-dateModified: '2016-03-06T06:31:33.673Z'
+datePublished: '2016-03-07T03:45:51.009Z'
+dateModified: '2016-03-07T03:45:40.434Z'
 title: A Trip to Paris
 author: []
 sourcePath: _posts/2016-03-06-a-trip-to-paris.md
@@ -22,7 +22,7 @@ url: a-trip-to-paris/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3dd16d664a7e9bf9e86d05e7978e5437eb2981.jpg)
+Perhaps my favorite city in the world. Beautiful simply can not describe the city of lights.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3dd16d664a7e9bf9e86d05e7978e5437eb2981.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0958f7c1266ebeeb647ba40c0a0af8613083dbbc.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/667ffdfb31f0b532108f3c8179002232d70756c0.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7ae820f9099e98fcc47433ab21e0a045cde35df.jpg)
