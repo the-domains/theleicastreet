@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 03:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 03:34:15 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Santa Monica]]></title>
+            <description><![CDATA[<article><h1>Santa Monica</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d316e571756527f44077432e6af9551abec37b8.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/santa-monica/index.html</link>
+            <guid isPermaLink="false">6ae22af3-430b-4216-af8f-ee18a7acd73e</guid>
+            <pubDate>Mon, 07 Mar 2016 03:32:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grove]]></title>
             <description><![CDATA[<article><h1>The Grove</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fde7bf6386b8c5fe283bc4eaac84d1caeb322f5.jpg"></article>]]></description>
@@ -68,15 +75,6 @@
             <link>http://theleicastreet.com/the-future-of-leica/index.html</link>
             <guid isPermaLink="false">2a38d3b1-f74c-45ee-9135-ae21d6bb8e99</guid>
             <pubDate>Sat, 05 Mar 2016 23:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Makes the Leica M Special?]]></title>
-            <description><![CDATA[<article><h1>What Makes the Leica M Special?</h1><p>My introduction to Leica was through internet reviews around the release of the M9. After reading people wax poetically about the quality and shooting experience I knew a Leica was in my future. Being able to shoot an M6 since 2012 I feel more equipped to state why Leica make special cameras. 
-
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff09023e52146043cf1355243f2e6557388693f7.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/what-makes-the-leica-m-special/index.html</link>
-            <guid isPermaLink="false">e771d9b0-922b-4a5b-be21-718d33b19bd7</guid>
-            <pubDate>Sat, 27 Feb 2016 01:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
