@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Pictures from our morning at Gates Park Calabasas
-datePublished: '2016-03-06T00:36:55.996Z'
-dateModified: '2016-03-06T00:34:59.779Z'
+datePublished: '2016-03-07T03:50:42.682Z'
+dateModified: '2016-03-07T03:50:23.058Z'
 title: A Day at the Park
 author: []
 sourcePath: _posts/2016-03-05-a-day-at-the-park.md
@@ -22,6 +22,7 @@ url: a-day-at-the-park/index.html
 _type: Article
 
 ---
+[Gates Canyon Park][0]/Brandons Village is an amazing park in Calabasas designed for children with special needs in mind
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e00f315995963208e902edb8bec21e0b94747aa.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e6a8c889adeabc4c3c72d0db93bf41d9d37800d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8872a61e7b1da3bed47a45e343324c248e582016.jpg)
@@ -37,3 +38,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6727dc36-271f-47f3-8166-22519a762285.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9778279d-fdd9-4284-94c2-77730f3264fa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b231bc3-0807-4aa2-8376-c6ae00ad2754.jpg)
+
+[0]: http://www.conejovalleyguide.com/kids-activities-blog/gates-canyon-park-brandons-village-calabasas.html
