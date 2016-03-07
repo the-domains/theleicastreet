@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 13:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 03:16:48 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grove]]></title>
+            <description><![CDATA[<article><h1>The Grove</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fde7bf6386b8c5fe283bc4eaac84d1caeb322f5.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/the-grove/index.html</link>
+            <guid isPermaLink="false">c5a78f7d-088d-4926-b103-a761dd750e73</guid>
+            <pubDate>Mon, 07 Mar 2016 03:15:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Trip to Paris]]></title>
             <description><![CDATA[<article><h1>A Trip to Paris</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3dd16d664a7e9bf9e86d05e7978e5437eb2981.jpg"></article>]]></description>
