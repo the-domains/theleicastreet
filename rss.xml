@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 01:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 01:13:39 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[L.A. Zoo]]></title>
+            <description><![CDATA[<article><h1>L.A. Zoo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d08d24c6819b9a6cf2217e3fb08f7bff6db872c.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/la-zoo/index.html</link>
+            <guid isPermaLink="false">4c3b5b65-996b-4cb8-8dcf-9c5cf8f6ea44</guid>
+            <pubDate>Wed, 09 Mar 2016 01:12:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Santa Monica]]></title>
             <description><![CDATA[<article><h1>Santa Monica</h1><p>In Sunny California nothing is better than a nice day near the beach. With lots to see its a place everyone should visit at sometime. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d316e571756527f44077432e6af9551abec37b8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/5-best-sites-for-leica/index.html</link>
             <guid isPermaLink="false">2660b1f9-e73a-490f-adea-ae665bd4dc21</guid>
             <pubDate>Sun, 06 Mar 2016 06:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Leica?]]></title>
-            <description><![CDATA[<article><h1>The Future of Leica?</h1><p>With Leica introducing several new cameras including the M240, M260, M262, Q and SL the direction Leica is heading. Introducing live view has left many wondering if the are moving away from the rangefinder system and traditionalists would argue that Leica is venturing away from what has made them great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbcb6bff1160ec16b8791e95b407f4856beb1600.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/the-future-of-leica/index.html</link>
-            <guid isPermaLink="false">2a38d3b1-f74c-45ee-9135-ae21d6bb8e99</guid>
-            <pubDate>Sat, 05 Mar 2016 23:38:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
