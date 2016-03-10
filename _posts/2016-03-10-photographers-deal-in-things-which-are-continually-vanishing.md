@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T19:03:45.825Z'
-dateModified: '2016-03-10T19:03:14.783Z'
-title: '"Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson'
+datePublished: '2016-03-10T19:07:40.011Z'
+dateModified: '2016-03-10T19:03:47.377Z'
+title: Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again. -Henri Cartier-Bresson
 author: []
 sourcePath: _posts/2016-03-10-photographers-deal-in-things-which-are-continually-vanishing.md
 published: true
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7efe1f72-c5ad-4e31-bf66-440f1c71cc39.jpg)
 
-# "Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson
+## "Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson
