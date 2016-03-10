@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T06:26:10.514Z'
-dateModified: '2016-03-06T06:26:10.068Z'
+description: "When getting into Leica the internet is filled with opinions. Shockingly there are quite a few Leica haters along with those that overly praise the brand. Below I have listed my favorite Leica sites.\_"
+datePublished: '2016-03-10T23:08:04.093Z'
+dateModified: '2016-03-10T23:07:53.688Z'
 title: 5 Best Sites For Leica
 author: []
 sourcePath: _posts/2016-03-05-5-best-sites-for-leica.md
