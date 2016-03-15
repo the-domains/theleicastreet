@@ -17,15 +17,15 @@ keywords:
   - alpha
   - cameras
 description: "What Is A Monochrome Sensor And Why Does It Exist? Leica cameras have always been exciting to me. I think it's mostly because of how expensive they are. Holding and using something incredibly out of my budget gives the shooting experience a little extra magic."
-datePublished: '2016-03-15T19:57:30.109Z'
-dateModified: '2016-03-15T19:56:13.027Z'
+datePublished: '2016-03-15T20:01:20.136Z'
+dateModified: '2016-03-15T19:58:40.081Z'
 author:
   - name: Sarah McAlexander
     url: 'http://www.lensrentals.com/blog/author/sarah/'
     avatar: {}
 related: []
 app_links: []
-title: Comparing the Leica Monochrom to a Sony a7R II
+title: LensRental Comparing the Leica Monochrom to a Sony a7R II
 sourcePath: _posts/2016-03-15-comparing-the-leica-monochrom-to-a-sony-a7r-ii.md
 published: true
 authors: []
