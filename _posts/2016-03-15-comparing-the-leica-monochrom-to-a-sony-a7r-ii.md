@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Sarah McAlexander
-    url: 'http://www.lensrentals.com/blog/author/sarah/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.lensrentals.com'
-  name: LensRentals Blog
-  favicon: 'http://www.lensrentals.com/favicon.ico'
-  domain: www.lensrentals.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.lensrentals.com/blog/2016/02/comparing-the-leica-monochrom-to-a-sony-a7r-ii/'
+inLanguage: en
+starred: false
 keywords:
   - leica
   - monochrom
@@ -21,17 +17,23 @@ keywords:
   - alpha
   - cameras
 description: "What Is A Monochrome Sensor And Why Does It Exist? Leica cameras have always been exciting to me. I think it's mostly because of how expensive they are. Holding and using something incredibly out of my budget gives the shooting experience a little extra magic."
-inLanguage: en
+datePublished: '2016-03-15T19:57:30.109Z'
+dateModified: '2016-03-15T19:56:13.027Z'
+author:
+  - name: Sarah McAlexander
+    url: 'http://www.lensrentals.com/blog/author/sarah/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.lensrentals.com/blog/2016/02/comparing-the-leica-monochrom-to-a-sony-a7r-ii/'
 title: Comparing the Leica Monochrom to a Sony a7R II
-datePublished: '2016-03-15T19:55:53.523Z'
-dateModified: '2016-03-15T19:55:25.467Z'
 sourcePath: _posts/2016-03-15-comparing-the-leica-monochrom-to-a-sony-a7r-ii.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: LensRentals Blog
+  domain: www.lensrentals.com
+  url: 'http://www.lensrentals.com'
+  favicon: 'http://www.lensrentals.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
