@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 18:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 20:43:59 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Failing to prepare is preparing to fail" - John Wooden]]></title>
+            <description><![CDATA[<article><h1>"Failing to prepare is preparing to fail" - John Wooden</h1><p>Originally said by Benjamin Franklin, later adapted by John Wooden</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9b47bef-c3cd-4cae-9663-cb7913605c27.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/favorite-quotes/index.html</link>
+            <guid isPermaLink="false">ac913d7c-aa9a-49b7-b536-47401d475b45</guid>
+            <pubDate>Wed, 16 Mar 2016 20:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leica M262 Review]]></title>
             <description><![CDATA[<article><h1>Leica M262 Review</h1><p>Another fun Kai Leica review, this time with the newly introduced simpler M240 I mean M262. Whatever your opinion of Leica is, we can all love Kai. </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/a-trip-to-paris/index.html</link>
             <guid isPermaLink="false">a78977df-a6d1-4ea9-840c-a7ce24d0c773</guid>
             <pubDate>Wed, 09 Mar 2016 03:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Look after your mind through study, your soul through praying, your body through exercise— and then work."- St. Benedict]]></title>
-            <description><![CDATA[<article><h1>"Look after your mind through study, your soul through praying, your body through exercise— and then work."- St. Benedict</h1><p>Brunello Cucinelli is not just a man that sells luxury clothes, but tries to live with a greater standard. I appreciate his sentiment in living and working with dignity. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8e9dd5a9eebdfc42d94b12f2a2807f3c810ffe6.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8/index.html</link>
-            <guid isPermaLink="false">34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8</guid>
-            <pubDate>Sun, 06 Mar 2016 00:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
