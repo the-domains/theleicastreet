@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 20:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 18:23:27 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leica M262 Review]]></title>
+            <description><![CDATA[<article><h1>Leica M262 Review</h1><p>Another fun Kai Leica review, this time with the newly introduced simpler M240 I mean M262. Whatever your opinion of Leica is, we can all love Kai. </p></article>]]></description>
+            <link>http://theleicastreet.com/leica-m262-review/index.html</link>
+            <guid isPermaLink="false">9210c9ed-5500-4afa-b0f3-04db01922980</guid>
+            <pubDate>Wed, 16 Mar 2016 18:23:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LensRental Comparing the Leica Monochrom to a Sony a7R II]]></title>
             <description><![CDATA[<article><h1>LensRental Comparing the Leica Monochrom to a Sony a7R II</h1><p>What Is A Monochrome Sensor And Why Does It Exist? Leica cameras have always been exciting to me. I think it's mostly because of how expensive they are. Holding and using something incredibly out of my budget gives the shooting experience a little extra magic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddda8fb24e705bb96fb6063560ba149668923b02.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8/index.html</link>
             <guid isPermaLink="false">34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8</guid>
             <pubDate>Sun, 06 Mar 2016 00:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Day at the Park]]></title>
-            <description><![CDATA[<article><h1>A Day at the Park</h1><p>Pictures from our morning at Gates Park Calabasas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e00f315995963208e902edb8bec21e0b94747aa.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/a-day-at-the-park/index.html</link>
-            <guid isPermaLink="false">948a7c1e-955c-4eb0-93d4-d642b0d3ecd5</guid>
-            <pubDate>Mon, 07 Mar 2016 04:07:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
