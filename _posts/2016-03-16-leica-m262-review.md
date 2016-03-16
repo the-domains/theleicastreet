@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Kai takes on the "affordable" Leica M262'
-datePublished: '2016-03-16T18:23:17.163Z'
-dateModified: '2016-03-16T18:23:14.401Z'
+datePublished: '2016-03-16T18:25:46.400Z'
+dateModified: '2016-03-16T18:24:08.530Z'
 title: Leica M262 Review
 author: []
 authors: []
