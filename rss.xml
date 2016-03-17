@@ -4,7 +4,7 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 23:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 23:49:57 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Film News: Announcing JCH StreetPan 400 film! - Japan Camera Hunter]]></title>
@@ -47,13 +47,6 @@
             <link>http://theleicastreet.com/photographers-deal-in-things-which-are-continually-vanishing/index.html</link>
             <guid isPermaLink="false">28e89917-48b7-40cb-aa6c-e23889546a0c</guid>
             <pubDate>Thu, 10 Mar 2016 19:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grove]]></title>
-            <description><![CDATA[<article><h1>The Grove</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fde7bf6386b8c5fe283bc4eaac84d1caeb322f5.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/the-grove/index.html</link>
-            <guid isPermaLink="false">c5a78f7d-088d-4926-b103-a761dd750e73</guid>
-            <pubDate>Tue, 08 Mar 2016 03:13:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
