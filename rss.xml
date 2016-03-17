@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 23:40:36 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Film News: Announcing JCH StreetPan 400 film! - Japan Camera Hunter]]></title>
+            <description><![CDATA[<article><h1>Film News: Announcing JCH StreetPan 400 film! - Japan Camera Hunter</h1><p>Film News: Announcing JCH StreetPan 400 film! Today is my birthday, so what better present could I give to myself and to you too than some film news that is really awesome! Introducing to you my very own brand of film, JCH StreetPan 400!</p><img src="http://www.japancamerahunter.com/wp-content/uploads/2016/03/JCH-400-3Dbox.jpg"></article>]]></description>
+            <link>http://www.japancamerahunter.com/2016/03/film-news-announcing-jch-streetpan-400-film/</link>
+            <guid isPermaLink="false">0fec7c3d-2e77-4752-a916-9b4a07593bc1</guid>
+            <pubDate>Thu, 17 Mar 2016 23:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Failing to prepare is preparing to fail" - John Wooden]]></title>
             <description><![CDATA[<article><h1>"Failing to prepare is preparing to fail" - John Wooden</h1><p>Originally said by Benjamin Franklin, later adapted by John Wooden</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1fb7a3d16fa38ca38675cf5a7e857f11b5971b4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/the-grove/index.html</link>
             <guid isPermaLink="false">c5a78f7d-088d-4926-b103-a761dd750e73</guid>
             <pubDate>Tue, 08 Mar 2016 03:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Trip to Paris]]></title>
-            <description><![CDATA[<article><h1>A Trip to Paris</h1><p>Perhaps my favorite city in the world. Beautiful simply can not describe the City of Lights. I have been fortunate to visit Paris a few times and can not wait to go back and explore. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c3dd16d664a7e9bf9e86d05e7978e5437eb2981.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/a-trip-to-paris/index.html</link>
-            <guid isPermaLink="false">a78977df-a6d1-4ea9-840c-a7ce24d0c773</guid>
-            <pubDate>Wed, 16 Mar 2016 21:07:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
