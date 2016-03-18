@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Nothing better than spending time with my family at the zoo. Having a son that loves animals the joy that he has from visiting the zoo is unmatched.
-datePublished: '2016-03-18T00:45:15.253Z'
-dateModified: '2016-03-18T00:45:08.896Z'
+datePublished: '2016-03-18T00:45:30.180Z'
+dateModified: '2016-03-18T00:45:22.052Z'
 title: A Day at the L.A. Zoo
 author: []
 sourcePath: _posts/2016-03-18-a-day-at-the-la-zoo.md
