@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 01:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 01:29:15 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using a Rangefinder]]></title>
+            <description><![CDATA[<article><h1>Using a Rangefinder</h1><p>Craig Semetko describes how to use a rangefinder. If you have not heard of Craig Semetko check out his work at http://www.semetko.com/</p></article>]]></description>
+            <link>http://theleicastreet.com/using-a-rangefinder/index.html</link>
+            <guid isPermaLink="false">e0d29cff-e0a7-4db5-9f60-71d6cf042bd7</guid>
+            <pubDate>Fri, 18 Mar 2016 01:28:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Day at the L.A. Zoo]]></title>
             <description><![CDATA[<article><h1>A Day at the L.A. Zoo</h1><p>Nothing better than spending time with my family at the zoo. Having a son that loves animals the joy that he has from visiting the zoo is unmatched.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efaf66c2950a0d3b83865c3509e3df507149b4c6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/5-best-sites-for-leica/index.html</link>
             <guid isPermaLink="false">2660b1f9-e73a-490f-adea-ae665bd4dc21</guid>
             <pubDate>Thu, 10 Mar 2016 23:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson]]></title>
-            <description><![CDATA[<article><h1>"Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson</h1><p>The great Henri Cartier-Bresson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd342a8e2976cb30da2b835ee311d653637abea2.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/photographers-deal-in-things-which-are-continually-vanishing/index.html</link>
-            <guid isPermaLink="false">28e89917-48b7-40cb-aa6c-e23889546a0c</guid>
-            <pubDate>Thu, 10 Mar 2016 19:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
