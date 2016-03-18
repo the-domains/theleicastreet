@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Nothing better than spending time with my family at the zoo. Having a son that loves animals the joy that he has from visiting the zoo is unmatched.
-datePublished: '2016-03-18T00:32:03.112Z'
-dateModified: '2016-03-18T00:31:18.095Z'
+datePublished: '2016-03-18T00:45:15.253Z'
+dateModified: '2016-03-18T00:45:08.896Z'
 title: A Day at the L.A. Zoo
 author: []
+sourcePath: _posts/2016-03-18-a-day-at-the-la-zoo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-a-day-at-the-la-zoo.md
-published: true
 url: a-day-at-the-la-zoo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc40220-cc4c-443c-8fb3-61a382d28c23.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e9c101b694179ce21416582e2f8260c1955d502.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3d60f21-6624-4a74-b851-52a8fb0a6253.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629bbc19-7a2e-4a14-98bd-da3d136e6c70.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/698d272f-f827-4c82-a546-37a204e5532d.jpg)
