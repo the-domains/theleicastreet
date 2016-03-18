@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Nothing better than spending time with my family at the zoo. Having a son that loves animals the joy that he has from visiting the zoo is unmatched.
-datePublished: '2016-03-18T00:45:30.180Z'
-dateModified: '2016-03-18T00:45:22.052Z'
+datePublished: '2016-03-18T00:45:49.555Z'
+dateModified: '2016-03-18T00:45:42.936Z'
 title: A Day at the L.A. Zoo
 author: []
 sourcePath: _posts/2016-03-18-a-day-at-the-la-zoo.md
@@ -22,10 +22,10 @@ url: a-day-at-the-la-zoo/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/698d272f-f827-4c82-a546-37a204e5532d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e9c101b694179ce21416582e2f8260c1955d502.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3d60f21-6624-4a74-b851-52a8fb0a6253.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/629bbc19-7a2e-4a14-98bd-da3d136e6c70.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/698d272f-f827-4c82-a546-37a204e5532d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77c3137-f39e-4f10-bee7-904a6782ae83.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1119aa25-2e18-48e1-83d0-439a835b69d5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05d1ac91-5543-4555-a155-d30eb756ffbb.jpg)
