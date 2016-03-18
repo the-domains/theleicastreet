@@ -1,7 +1,7 @@
 name: theleicastreet
 favicon: null
 layout_spectrum: 0.26787
-typography_spectrum: 0.29122
+typography_spectrum: 0.88331
 title: null
 collections:
   - index:
@@ -36,6 +36,6 @@ color:
     - '#f39b9b'
   brandStrength: 0.0625
   lightness: 0.8125
-  saturation: 0.8125
+  saturation: 0.75
   rhythmicContrast: 1
 purpose: []
