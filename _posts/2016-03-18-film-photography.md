@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Shooting film photography is described by many as the best way to actually learn about photography. In this instance I believe they are talking about light, which is the most important condition in taking photographs. Without an LCD screen and the ability to machine gun, film does make myself slow down and concentrate on not wasting film, which in turn is not wasting money. Learning about light and how to adjust my aperture and shutter speeds based on light condition has made me a better photographer, if your looking to make the jump these are some websites that helped me. \_"
-datePublished: '2016-03-18T16:10:37.337Z'
-dateModified: '2016-03-18T16:10:24.989Z'
+description: "Shooting film photography is described by many as the best way to actually learn about photography. In this instance I believe they are talking about light, which is the most important condition in taking photographs. Without an LCD screen and the ability to machine gun, film does make myself slow down and concentrate on not wasting film, which in turn is not wasting money. Learning about light and how to adjust my aperture and shutter speeds based on light condition has made me a better photographer, if your looking to make the jump these are some websites that helped me. And lets be honest we all need motivation and looking at others work only gets me more excited to take more photos. \_"
+datePublished: '2016-03-18T16:17:10.592Z'
+dateModified: '2016-03-18T16:10:40.190Z'
 title: 'Film Photography '
 author: []
 sourcePath: _posts/2016-03-18-film-photography.md
