@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When getting into Leica the internet is filled with opinions. Shockingly there are quite a few Leica haters along with those that overly praise the brand. Below I have listed my favorite Leica sites.\_"
-datePublished: '2016-03-10T23:10:06.712Z'
-dateModified: '2016-03-10T23:09:37.359Z'
+datePublished: '2016-03-18T03:59:38.611Z'
+dateModified: '2016-03-18T03:59:32.661Z'
 title: My Favorite Sites For Leica Info
 author: []
 sourcePath: _posts/2016-03-05-5-best-sites-for-leica.md
@@ -22,7 +22,7 @@ url: 5-best-sites-for-leica/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/934317bb-b92c-45a1-b955-fb1a32d15235.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bf92d0d5dc778c26680941ad5d431186103266f.jpg)
 
 When getting into Leica the internet is filled with opinions. Shockingly there are quite a few Leica haters along with those that overly praise the brand. Below I have listed my favorite Leica sites. 
 
