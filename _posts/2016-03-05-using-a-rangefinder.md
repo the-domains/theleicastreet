@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Craig Semetko describes how to use a rangefinder. If you have not heard of Craig Semetko check out his work at\_http://www.semetko.com/"
-datePublished: '2016-03-18T19:28:08.608Z'
-dateModified: '2016-03-18T16:08:05.548Z'
+datePublished: '2016-03-18T20:52:01.202Z'
+dateModified: '2016-03-18T19:28:16.964Z'
 title: Using a Rangefinder
 author: []
 sourcePath: _posts/2016-03-05-using-a-rangefinder.md
