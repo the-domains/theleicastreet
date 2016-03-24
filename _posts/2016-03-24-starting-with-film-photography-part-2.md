@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In my previous \"Starting with Film Photography\" post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital\_"
-datePublished: '2016-03-24T19:14:46.243Z'
-dateModified: '2016-03-24T19:13:58.009Z'
+datePublished: '2016-03-24T19:25:46.742Z'
+dateModified: '2016-03-24T19:25:46.363Z'
 title: Starting with Film Photography Part 2
 author: []
 sourcePath: _posts/2016-03-24-starting-with-film-photography-part-2.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db9ea6f-2c1b-43ae-94df-02b9b988fcbb.jpg)
 
-In my previous ["Starting with Film Photography"][0] post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital 
+In my previous ["Starting with Film Photography"][0] post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have really helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital 
 
 1: [http://www.yanidel.net/gear/manual-focus-technique/][1]. One of the best aspects of a rangefinder is the manual focus technique. At first it can be slow and tricky, but with practice it becomes much easier and in my mind the only way to accurately manually focus. Not only is Yanidel an amazing street photographer, but gives amazing advice on focusing. Check out his websites, work and follow him @yyanidel.
 
