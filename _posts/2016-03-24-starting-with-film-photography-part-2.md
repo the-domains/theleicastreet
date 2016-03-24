@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "In my previous \"Starting with Film Photography\" post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital\_"
-datePublished: '2016-03-24T19:12:07.096Z'
-dateModified: '2016-03-24T19:11:35.196Z'
+datePublished: '2016-03-24T19:14:46.243Z'
+dateModified: '2016-03-24T19:13:58.009Z'
 title: Starting with Film Photography Part 2
 author: []
+sourcePath: _posts/2016-03-24-starting-with-film-photography-part-2.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-starting-with-film-photography-part-2.md
-published: true
 url: starting-with-film-photography-part-2/index.html
 _type: Article
 
@@ -35,8 +35,6 @@ In my previous ["Starting with Film Photography"][0] post I shared some of my fa
 4: [http://www.guidetofilmphotography.com/black-and-white-film.html][6]. You have gotten into film photography and now its time to commit to shooting black and white photos. I mean all the cool kids are doing it, right? Well this article goes through many of my favorite black & white films and describes what you can expect form them. From Tri-X to Neopan you should try them all. Follow on twitter @GuideFilmPhoto
 
 5: [https://fstoppers.com/education/why-ive-gone-back-shooting-filmand-why-you-should-too-30630][7]. I have given you all the tools to shoot with a film camera, but your still hesitant on trying it out. Do yourself a favor and read this article and then follow them on twitter @Fstoppers. 
-
-
 
 [0]: http://theleicastreet.com/film-photography/
 [1]: http://www.yanidel.net/gear/manual-focus-technique/
