@@ -4,11 +4,18 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 02:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 14:57:07 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[La Brea]]></title>
+            <description><![CDATA[<article><h1>La Brea</h1><p>LaBrea between 3rd street and Wilshire is such an amazing walk. Filled with all kind of interesting stuff from furniture to food to </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53aae042c78fdf925757fc176d51ff004d7a0237.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/la-brea/index.html</link>
+            <guid isPermaLink="false">fa50a549-483d-44e4-95d7-aeb4580de916</guid>
+            <pubDate>Fri, 25 Mar 2016 14:56:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Inspirations]]></title>
-            <description><![CDATA[<article><h1>Inspirations</h1><p>I can not remember a time without having my wife Maureen by my side. We have been together since January 2006 and experienced so much. Without her, I am really not sure where I would be. She has pushed me when I needed it and loved me through everything. We are now proud parents to 2 beautiful children and can not wait to have more wonderful experiences. Thank you Maureen, I love you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a14a06aad8613790b83e9f6b1506824268bdd6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Inspirations</h1><p>I can not remember a time without having my wife Maureen by my side. We have been together since January 2006 and experienced so much. Without her, I am really not sure where I would be. She has pushed me when I needed it and loved me through everything. We are now proud parents to 2 beautiful children and I can not wait to have more wonderful experiences. Thank you Maureen, I love you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a14a06aad8613790b83e9f6b1506824268bdd6.jpg"></article>]]></description>
             <link>http://theleicastreet.com/inspirations/index.html</link>
             <guid isPermaLink="false">6da3cc58-3619-4326-bf97-1e6fd11fdae0</guid>
             <pubDate>Fri, 25 Mar 2016 02:01:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/a-day-at-the-la-zoo/index.html</link>
             <guid isPermaLink="false">d206794f-8c12-4113-8ad9-ea98a91b97bb</guid>
             <pubDate>Fri, 18 Mar 2016 00:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santa Monica]]></title>
-            <description><![CDATA[<article><h1>Santa Monica</h1><p>Sunny Southern California is a popular tourist destination. I just call it home. Having lived in Los Angeles for virtually my entire life its great to take time and appreciate the fortunate life that I have.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1913ad30a1c16236826c7cbf97c0a29db9252758.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/santa-monica/index.html</link>
-            <guid isPermaLink="false">67bcbfc5-f616-4ab5-a60e-8bd8c5c2c86f</guid>
-            <pubDate>Fri, 18 Mar 2016 04:45:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
