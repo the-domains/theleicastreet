@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 15:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 00:05:53 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Favorite Speeches]]></title>
+            <description><![CDATA[<article><h1>Favorite Speeches</h1><p></p></article>]]></description>
+            <link>http://theleicastreet.com/favorite-speeches/index.html</link>
+            <guid isPermaLink="false">4bf642ce-40bc-4aec-a48d-fdca975be4f6</guid>
+            <pubDate>Fri, 01 Apr 2016 00:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[La Brea]]></title>
             <description><![CDATA[<article><h1>La Brea</h1><p>La Brea between 3rd street and Wilshire is such an amazing walk. Filled with all kind of interesting stuff from furniture to food to synagouges. I was lucky enough to have lived in the area for 3 years, walking this street every Saturday and Sunday morning. It was an amazing time watching the transition La Brea has taken with much of the religious community holding on to the area. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53aae042c78fdf925757fc176d51ff004d7a0237.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/using-a-rangefinder/index.html</link>
             <guid isPermaLink="false">e0d29cff-e0a7-4db5-9f60-71d6cf042bd7</guid>
             <pubDate>Fri, 18 Mar 2016 20:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Day at the L.A. Zoo]]></title>
-            <description><![CDATA[<article><h1>A Day at the L.A. Zoo</h1><p>Nothing better than spending time with my family at the zoo. Having a son that loves animals the joy that he has from visiting the zoo is unmatched.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efaf66c2950a0d3b83865c3509e3df507149b4c6.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/a-day-at-the-la-zoo/index.html</link>
-            <guid isPermaLink="false">d206794f-8c12-4113-8ad9-ea98a91b97bb</guid>
-            <pubDate>Fri, 18 Mar 2016 00:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
