@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Bobby Kennedy Menace of Violence Speech
-datePublished: '2016-04-01T00:10:48.791Z'
-dateModified: '2016-04-01T00:10:45.353Z'
+description: 'One of the things that comes to mind time and time again in todays society is echoed in this speech from April, 5, 1968. We still are dealing with many of the same issues and one must wonder when will the future be different?'
+datePublished: '2016-04-01T00:14:17.932Z'
+dateModified: '2016-04-01T00:12:59.583Z'
 title: Favorite Speeches
 author: []
+sourcePath: _posts/2016-04-01-favorite-speeches.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-favorite-speeches.md
-published: true
 url: favorite-speeches/index.html
 _type: Article
 
