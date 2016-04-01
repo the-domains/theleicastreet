@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "In my previous \"Starting with Film Photography\" post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital\_"
-datePublished: '2016-03-24T19:25:46.742Z'
-dateModified: '2016-03-24T19:25:46.363Z'
+description: "In my previous \"Starting with Film Photography\" post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have really helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital\_"
+datePublished: '2016-04-01T00:11:53.237Z'
+dateModified: '2016-04-01T00:10:13.488Z'
 title: Starting with Film Photography Part 2
 author: []
 sourcePath: _posts/2016-03-24-starting-with-film-photography-part-2.md
