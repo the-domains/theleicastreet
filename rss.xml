@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 14:25:34 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[" Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham]]></title>
+            <description><![CDATA[<article><h1>" Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90a5d665-2518-4509-8264-15e3dbeb50c9.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/which-of-my-photographs-is-my-favorite-the-one-im-going/index.html</link>
+            <guid isPermaLink="false">7bf0bd70-c313-417e-aba4-85832d8e199a</guid>
+            <pubDate>Thu, 07 Apr 2016 14:24:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris, pt. 2]]></title>
             <description><![CDATA[<article><h1>Paris, pt. 2</h1><p>Some more pictures from my Paris adventures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa42414124205db552306ab7555df9f8e0f0d835.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.japancamerahunter.com/2012/11/what-is-the-best-leica-m-for-you/</link>
             <guid isPermaLink="false">342ee11e-94d8-4da7-b79d-47b75a68b8ed</guid>
             <pubDate>Fri, 18 Mar 2016 15:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leica M262 Review]]></title>
-            <description><![CDATA[<article><h1>Leica M262 Review</h1><p>Another fun Kai Leica review, this time with the newly introduced simpler M240 I mean M262. Whatever your opinion of Leica is, we can all love Kai. </p></article>]]></description>
-            <link>http://theleicastreet.com/leica-m262-review/index.html</link>
-            <guid isPermaLink="false">9210c9ed-5500-4afa-b0f3-04db01922980</guid>
-            <pubDate>Fri, 18 Mar 2016 04:50:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
