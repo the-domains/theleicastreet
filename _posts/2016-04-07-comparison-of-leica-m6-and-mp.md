@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Leica is EXPENSIVE. I know this is shocking to some, but the price point is inherently high. What you get for your money is the real question. The guys at Brooklyn Shooters Channel\_(Brett Price and Brennan Mckissick) discuss the differences between the Leica M6 and MP. I had to make this choice when starting out and pretty much decided a camera and lens  camera  camera. Please subscribe to there youtube channel to see more great videos about Leica and follow brennan Mckissick @brennanphotoguy."
-datePublished: '2016-04-07T15:43:29.726Z'
-dateModified: '2016-04-07T15:43:25.423Z'
+description: "Leica is EXPENSIVE. I know this is shocking to some, but the price point is inherently high. The guys at Brooklyn Shooters Channel\_(Brett Price and Brennan Mckissick) discuss the differences between the Leica M6 and MP. Please subscribe to there youtube channel to see more great videos about Leica and follow brennan Mckissick @brennanphotoguy."
+datePublished: '2016-04-07T15:50:08.008Z'
+dateModified: '2016-04-07T15:49:52.248Z'
 title: Comparison of Leica M6 and MP
 author: []
 sourcePath: _posts/2016-04-07-comparison-of-leica-m6-and-mp.md
