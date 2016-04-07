@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The great HCB. A cool video to enjoy. HCB gets a ton of credit and deservedly so, but his philosophy and thoughts are quite interesting. Enjoy.'
-datePublished: '2016-04-07T15:04:47.572Z'
-dateModified: '2016-04-07T15:04:43.835Z'
+datePublished: '2016-04-07T15:08:17.103Z'
+dateModified: '2016-04-07T15:07:04.481Z'
 title: The Decisive Moment-Henri Cartier Bresson
 author: []
 sourcePath: _posts/2016-04-07-the-decisive-moment-henri-cartier-bresson.md
