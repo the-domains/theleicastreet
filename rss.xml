@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 15:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 15:29:02 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Comparison of Leica M6 and MP]]></title>
+            <description><![CDATA[<article><h1>Comparison of Leica M6 and MP</h1><p>Leica is EXPENSIVE. I know this is shocking to some, but the price point is inherently high. What you get for your money is the real question. The guys at Brooklyn Shooters Channel discuss the differences between the Leica M6 and MP. I had to make this choice when starting out and pretty much decided a camera and lens  camera. </p></article>]]></description>
+            <link>http://theleicastreet.com/comparison-of-leica-m6-and-mp/index.html</link>
+            <guid isPermaLink="false">a5f0c9f9-dcc6-43d5-986b-08d5eaa2c44a</guid>
+            <pubDate>Thu, 07 Apr 2016 15:28:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Joel Meyerowitz]]></title>
             <description><![CDATA[<article><h1>Joel Meyerowitz</h1><p>An awesome video by Leica. Love listening to Mr. Meyerowitz and his how he entered into photography. Very cool stories about his photographic journey. Check out his work on his website at http://www.joelmeyerowitz.com/ and follow him on twitter @Joelmeyerowitz</p></article>]]></description>
@@ -32,7 +39,7 @@
             <description><![CDATA[<article><h1>Paris, pt. 2</h1><p>Some more pictures from my Paris adventures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa42414124205db552306ab7555df9f8e0f0d835.jpg"></article>]]></description>
             <link>http://theleicastreet.com/paris-pt-2/index.html</link>
             <guid isPermaLink="false">04b9d641-a24d-4946-a902-2d22c8d7a6ff</guid>
-            <pubDate>Sat, 02 Apr 2016 21:37:09 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 15:20:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marbella, Spain]]></title>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/starting-with-film-photography-part-2/index.html</link>
             <guid isPermaLink="false">15e53c46-8c84-45c0-8deb-94416c78d0c8</guid>
             <pubDate>Fri, 01 Apr 2016 00:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["There is nothing worse than a sharp image of a fuzzy concept"- Ansel Adams]]></title>
-            <description><![CDATA[<article><h1>"There is nothing worse than a sharp image of a fuzzy concept"- Ansel Adams</h1><p>Ansel Adams with some wise words</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9b30621-65b1-4db6-88a5-0fe3bd95395f.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/3ef05d5d-9d70-49cc-8b3c-0de7f7e41511/index.html</link>
-            <guid isPermaLink="false">3ef05d5d-9d70-49cc-8b3c-0de7f7e41511</guid>
-            <pubDate>Fri, 18 Mar 2016 20:49:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
