@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Bruce Gilden and his unmistakable style. '
-datePublished: '2016-04-13T03:11:05.479Z'
-dateModified: '2016-04-13T03:10:33.140Z'
+datePublished: '2016-04-13T03:18:30.952Z'
+dateModified: '2016-04-13T03:11:14.343Z'
 title: Favorite Quotes
 author: []
+sourcePath: _posts/2016-04-13-favorite-quotes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-favorite-quotes.md
-published: true
 url: favorite-quotes/index.html
 _type: Article
 
