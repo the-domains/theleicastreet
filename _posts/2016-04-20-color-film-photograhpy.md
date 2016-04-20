@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Not often do I shoot color film, for whatever reason I prefer the look of black and white pictures. It is often said that color is too distracting in pictures and I feel this is often the case, but its always good to try something different. '
-datePublished: '2016-04-20T21:23:33.001Z'
-dateModified: '2016-04-20T21:21:00.333Z'
+datePublished: '2016-04-20T21:25:27.278Z'
+dateModified: '2016-04-20T21:24:25.748Z'
 title: ''
 author: []
 authors: []
