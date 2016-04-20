@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Not often do I shoot color film, for whatever reason I prefer the look of black and white pictures. It is often said that color is too distracting in pictures and I feel this is often the case, but its always good to try something different. '
-datePublished: '2016-04-20T21:25:27.278Z'
-dateModified: '2016-04-20T21:24:25.748Z'
+datePublished: '2016-04-20T21:29:56.703Z'
+dateModified: '2016-04-20T21:29:52.495Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -22,10 +24,12 @@ url: color-film-photograhpy/index.html
 _type: Article
 
 ---
-Not often do I shoot color film, for whatever reason I prefer the look of black and white pictures. It is often said that color is too distracting in pictures and I feel this is often the case, but its always good to try something different. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37ef49b0-3282-478b-b272-390f30fea90b.jpg)
+Not often do I shoot color film, for whatever reason I prefer the look of black and white pictures. It is often said that color is too distracting in pictures and I feel this is often the case, but its always good to try something different. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/653ac1f6-4e16-42b0-b341-5363f46631bc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37ef49b0-3282-478b-b272-390f30fea90b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23e279e3-c54f-49b4-a50c-a43c08849555.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe84411-915a-43ba-aec4-4d7502693fda.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/653ac1f6-4e16-42b0-b341-5363f46631bc.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece07443-58b0-4270-9319-f0fe20ff8ab9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb739a4-984d-4324-8ae9-80b708f7224f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06217ae1-b56a-4945-9c20-a5990d3c6dfc.jpg)
