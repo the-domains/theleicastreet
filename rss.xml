@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 16:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 19:31:01 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspirations]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/974d4fed2d3fe9b104c5022904074e6921392e31.jpg" alt="" title="" />]]></description>
+            <link>http://theleicastreet.com/inspirations/index.html</link>
+            <guid isPermaLink="false">6da3cc58-3619-4326-bf97-1e6fd11fdae0</guid>
+            <pubDate>Thu, 28 Apr 2016 19:30:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The new Leica M-D Typ 262]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/248a3f781478f96b7cca1d1c4970135f4fc91e3b.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/marbella-spain/index.html</link>
             <guid isPermaLink="false">df60c023-0349-45e8-b32f-9c36070cc178</guid>
             <pubDate>Sat, 02 Apr 2016 21:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Favorite Speeches]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9518bfaf-8410-4278-bd9a-611e99716d49.jpg" alt="" title="">]]></description>
-            <link>http://theleicastreet.com/favorite-speeches/index.html</link>
-            <guid isPermaLink="false">4bf642ce-40bc-4aec-a48d-fdca975be4f6</guid>
-            <pubDate>Fri, 01 Apr 2016 00:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
