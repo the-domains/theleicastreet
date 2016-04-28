@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 21:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 15:04:33 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leica M-D]]></title>
+            <description><![CDATA[<p>I love this concept of no LCD screen at a cheaper price than the recently released Leica Type 262. I am not sure I love it at a significantly greater price. It is Leica though and simplicity comes at a price. Check out the video. </p>]]></description>
+            <link>http://theleicastreet.com/leica-m-d/index.html</link>
+            <guid isPermaLink="false">94275ed0-0b82-4470-83fb-fa810cef1b4b</guid>
+            <pubDate>Thu, 28 Apr 2016 15:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Color Film Photograhpy]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/653ac1f6-4e16-42b0-b341-5363f46631bc.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/favorite-speeches/index.html</link>
             <guid isPermaLink="false">4bf642ce-40bc-4aec-a48d-fdca975be4f6</guid>
             <pubDate>Fri, 01 Apr 2016 00:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starting with Film Photography Part 2]]></title>
-            <description><![CDATA[<p>In my previous "Starting with Film Photography" post I shared some of my favorite websites. In this post I am getting a little more specific and sharing some articles that have really helped me over the years. Shooting with a rangefinder has a learning curve, but thanks to the wonders of the internet, this can be lessened with some excellent advice from amazing people. Below are those articles that I think everyone can learn from weather shooting analog or digital </p>]]></description>
-            <link>http://theleicastreet.com/starting-with-film-photography-part-2/index.html</link>
-            <guid isPermaLink="false">15e53c46-8c84-45c0-8deb-94416c78d0c8</guid>
-            <pubDate>Fri, 01 Apr 2016 00:11:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
