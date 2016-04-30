@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 19:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 19:35:33 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson]]></title>
+            <description><![CDATA[<article><h1>"Photographers deal in things which are continually vanishing and when they have vanished there is no contrivance on earth which can make them come back again." -Henri Cartier-Bresson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd342a8e2976cb30da2b835ee311d653637abea2.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/photographers-deal-in-things-which-are-continually-vanishing/index.html</link>
+            <guid isPermaLink="false">28e89917-48b7-40cb-aa6c-e23889546a0c</guid>
+            <pubDate>Sat, 30 Apr 2016 19:35:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The new Leica M-D Typ 262]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/248a3f781478f96b7cca1d1c4970135f4fc91e3b.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>http://theleicastreet.com/the-decisive-moment-henri-cartier-bresson/index.html</link>
             <guid isPermaLink="false">ed91d0bb-d16b-46fe-a35f-ccafd5cd2bfd</guid>
             <pubDate>Thu, 07 Apr 2016 15:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham]]></title>
-            <description><![CDATA[<article><h1>"Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90a5d665-2518-4509-8264-15e3dbeb50c9.jpg"></article>]]></description>
-            <link>http://theleicastreet.com/which-of-my-photographs-is-my-favorite-the-one-im-going/index.html</link>
-            <guid isPermaLink="false">7bf0bd70-c313-417e-aba4-85832d8e199a</guid>
-            <pubDate>Thu, 07 Apr 2016 14:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
