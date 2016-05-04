@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T21:34:44.143Z'
-dateModified: '2016-05-04T21:33:20.728Z'
+datePublished: '2016-05-04T21:35:29.684Z'
+dateModified: '2016-05-04T21:35:18.321Z'
 title: '"Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham'
 author:
   - name: ''
