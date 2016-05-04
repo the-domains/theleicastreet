@@ -3,21 +3,22 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'A truly great sentiment on looking towards the future instead of dwelling on the past. '
-datePublished: '2016-04-07T14:55:23.055Z'
-dateModified: '2016-04-07T14:55:18.781Z'
-title: Favorite Quotes
-author: []
+description: ''
+datePublished: '2016-05-04T21:34:44.143Z'
+dateModified: '2016-05-04T21:33:20.728Z'
+title: '"Which of my photographs is my favorite? The one I’m going to take tomorrow. – Imogen Cunningham'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-07-which-of-my-photographs-is-my-favorite-the-one-im-going.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: which-of-my-photographs-is-my-favorite-the-one-im-going/index.html
 _type: Article
 
