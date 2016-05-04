@@ -1,5 +1,8 @@
+name: theleicastreet
+favicon: null
+layout_spectrum: 0.2447
+typography_spectrum: 0.90836
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74761061-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.1358754
-  lightness: 1
   brandColors:
     - '#ffffff'
     - '#d73030'
     - '#f0f0f0'
     - '#dddddd'
     - '#f39b9b'
-  rhythmicContrast: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-74761061-1
-  facebook: null
-name: theleicastreet
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.90836
-layout_spectrum: 0.04431
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
+purpose: []
