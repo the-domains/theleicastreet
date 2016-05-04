@@ -4,8 +4,15 @@
         <description><![CDATA[theleicastreet]]></description>
         <link>http://theleicastreet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 21:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 21:36:55 GMT</lastBuildDate>
         <atom:link href="http://theleicastreet.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9b30621-65b1-4db6-88a5-0fe3bd95395f.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/3ef05d5d-9d70-49cc-8b3c-0de7f7e41511/index.html</link>
+            <guid isPermaLink="false">3ef05d5d-9d70-49cc-8b3c-0de7f7e41511</guid>
+            <pubDate>Wed, 04 May 2016 21:32:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66d91ebe51e2157746d4e1da2b7c105ba9ea12d.jpg" alt="My 1st ever Leica photo, shot almost 5 years ago. #Leica #photography #losangeles #leicaM6" title="">]]></description>
@@ -54,6 +61,13 @@
             <link>http://theleicastreet.com/34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8/index.html</link>
             <guid isPermaLink="false">34c3e2f0-b3b7-4163-9b31-fbd0631b3ed8</guid>
             <pubDate>Thu, 28 Apr 2016 21:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["If you can smell the street by looking at the photo, it's a street photograph"-Bruce Gilden]]></title>
+            <description><![CDATA[<article><h1>"If you can smell the street by looking at the photo, it's a street photograph"-Bruce Gilden</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff338c55-277e-4be3-873c-c274b4ad4f4f.jpg"></article>]]></description>
+            <link>http://theleicastreet.com/favorite-quotes/index.html</link>
+            <guid isPermaLink="false">d794c1ce-ed10-4c71-a704-643bd3c6c900</guid>
+            <pubDate>Wed, 13 Apr 2016 03:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
