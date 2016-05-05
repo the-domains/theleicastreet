@@ -1,6 +1,6 @@
 name: The Leica Street
 favicon: null
-layout_spectrum: 0.57058
+layout_spectrum: 0
 typography_spectrum: 0.90836
 title: The Leica Street
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.75
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
