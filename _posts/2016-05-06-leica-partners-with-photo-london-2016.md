@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.photographyblog.com/news/leica_partners_with_photo_lon
 inLanguage: null
 keywords: []
 description: "Leica has become an Official Partner of the second Photo London fair, which takes place from 19-22 May 2016 at Somerset House. As part of this special collaboration, which sees Leica partnering with Photo London for the first time, the company will present an outstanding body of international photography entitled 'Alex Webb: Selections', which incorporates a collection of powerful, intense colour street photographs by the renowned Magnum photographer."
-datePublished: '2016-05-06T17:04:32.634Z'
-dateModified: '2016-05-06T16:53:54.215Z'
+datePublished: '2016-05-06T17:15:27.570Z'
+dateModified: '2016-05-06T17:04:41.428Z'
 title: Leica Partners with Photo London 2016
 author:
   - name: ''
