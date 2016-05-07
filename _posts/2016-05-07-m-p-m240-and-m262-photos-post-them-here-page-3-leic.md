@@ -6,10 +6,12 @@ isBasedOnUrl: 'http://www.l-camera-forum.com/topic/259713-m-p-m240-and-m262-phot
 inLanguage: null
 keywords: []
 description: 'Page 3 of 3 - M-P, M240 and M262 photos. Post them here... - posted in Leica M (Type 240 / 262): M-P240 Safari/35mm Cron ASPH.. @ Knights Ferry Ca.. (Historic Buildings)'
-datePublished: '2016-05-07T15:29:18.322Z'
-dateModified: '2016-05-07T15:28:48.720Z'
+datePublished: '2016-05-07T15:35:31.602Z'
+dateModified: '2016-05-07T15:29:30.755Z'
 title: 'M-P, M240 and M262 photos. Post them here... - Page 3 - Leica M (Type 240 / 262)'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-07-m-p-m240-and-m262-photos-post-them-here-page-3-leic.md
 authors: []
 publisher:
