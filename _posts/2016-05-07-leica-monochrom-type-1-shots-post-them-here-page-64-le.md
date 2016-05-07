@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.l-camera-forum.com/topic/188046-leica-monochrom-type-1
 inLanguage: null
 keywords: []
 description: 'Page 64 of 64 - Leica Monochrom type 1 shots (Post them here) - posted in Leica M Monochrom: jcraf... a photo from my home town! How do you feel about the new sensor? Any appreciable difference between this revised one and the original?'
-datePublished: '2016-05-07T15:29:06.060Z'
-dateModified: '2016-05-07T15:27:23.182Z'
+datePublished: '2016-05-07T15:35:21.769Z'
+dateModified: '2016-05-07T15:29:14.469Z'
 title: Leica Monochrom type 1 shots (Post them here) - Page 64 - Leica M Monochrom
 author:
   - name: ''
