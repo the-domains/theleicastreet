@@ -1,15 +1,25 @@
 ---
-title: Craig Semetko at PhotoCon LA
-datePublished: '2016-05-11T02:58:43.962Z'
-dateModified: '2016-05-10T23:45:19.313Z'
-author: []
-isBasedOnUrl: 'http://us13.campaign-archive1.com/?u=260b7210ec795457f794ca296&id=42f6f61c59&e=46b9026cfe'
-description: 'Meet Leica Photographer Craig Semetko at PhotoConLA, May 21, 4:30PM - 5:30PM. Venue: Cloud Room, Magic Box at The Reef in Downtown LA'
-starred: false
-sourcePath: _posts/2016-05-11-craig-semetko-at-photocon-la.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://us13.campaign-archive1.com/?u=260b7210ec795457f794ca296&id=42f6f61c59&e=46b9026cfe'
+inLanguage: null
+keywords: []
+description: 'Meet Leica Photographer Craig Semetko at PhotoConLA, May 21, 4:30PM - 5:30PM. Venue: Cloud Room, Magic Box at The Reef in Downtown LA'
+datePublished: '2016-05-11T03:02:11.195Z'
+dateModified: '2016-05-11T02:58:56.153Z'
+title: Craig Semetko at PhotoCon LA
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-11-craig-semetko-at-photocon-la.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
